@@ -1,0 +1,51 @@
+body{
+  font-family: 'Lora', serif;
+  line-height: 1.6;
+  font-weight: lighter;
+}
+
+header {
+  background-image: url('images/banner.jpg');
+  padding: 150px 0;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  filter: grayscale(50%);
+}
+
+header h2 {
+  opacity: 0.9;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: sans-serif;
+}
+
+#container {
+  margin: 5% 20%;
+}
+
+h2 {
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  color: grey;
+}
+
+p {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: #626262;
+  font-size: 25px;
+  background-color: #e9fdf0;
+}
+
+a:hover {
+  background-color: #7dffb3;
+}
